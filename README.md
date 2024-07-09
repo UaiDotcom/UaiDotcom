@@ -1,15 +1,17 @@
-## Hi there 👋
+## Aoba! Bão?
 
-"🚀 Desenvolvedor em busca de desafios emocionantes! Apaixonado por tecnologia desde sempre, meu foco atual está em dominar C# enquanto me preparo para uma jornada no desenvolvimento mobile iOS. Através de projetos empolgantes, estou construindo meu portfólio para mostrar minha habilidade em criar aplicativos intuitivos e eficientes.
+"🚀 Desenvolvedor em busca de desafios emocionantes! Nascido e criado no interior de Minas Gerais, sou apaixonado pelo ritmo tranquilo e acolhedor do campo. Enquanto construo minha jornada em tecnologia, atualmente estou dominando C# com os olhos firmemente voltados para o desenvolvimento mobile iOS. Através de projetos empolgantes, estou criando um portfólio que reflete minha habilidade em criar aplicativos intuitivos e eficientes.
 
-📱 Meu interesse por iOS vai além da paixão por sua elegância e usabilidade. Vejo o desenvolvimento móvel como uma oportunidade de criar ferramentas que não apenas resolvem problemas, mas também elevam a experiência do usuário a novos patamares. Quero combinar minha habilidade técnica com minha criatividade para desenvolver apps que fazem a diferença na vida das pessoas.
+💪 Além de minha paixão por código, sou um entusiasta da musculação e acompanho de perto o mundo do Bodybuilding Natural. Quando não estou mergulhado em linhas de código, estou provavelmente na academia, buscando atingir novos objetivos físicos.
 
-💼 Com experiência prévia em automação tributária e contábil utilizando Python e VBA, tenho uma sólida base técnica que complementa meu desejo de trabalhar em soluções para instituições financeiras. A complexidade e dinâmica do mercado financeiro me fascinam, e estou sempre procurando maneiras de aplicar minha habilidade técnica para melhorar processos e oferecer insights valiosos.
+🚗 Meu amor por automóveis também é uma parte importante da minha vida. Adoro explorar novas tecnologias automotivas e ficar por dentro das últimas novidades do setor.
+
+😄 Acredito que cada linha de código pode ter seu toque de criatividade. Afinal, desenvolver software não precisa ser apenas eficiente, mas também divertido!
 
 📚 Estou no segundo período da faculdade, buscando aprender e crescer constantemente. Além do desenvolvimento de software, tenho um interesse profundo em economia e mercados financeiros. Minha ambição é combinar meu conhecimento técnico com minha paixão por finanças para criar soluções inovadoras e eficazes.
 
 🔗 Estou aberto a colaborações, aprendizado e novas oportunidades que me permitam expandir meu horizonte tecnológico e contribuir positivamente para projetos desafiadores. Vamos conectar e transformar ideias em realidade juntos!"
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uaidotcom&label=Profile%20views&color=0e75b6&style=flat" alt="uaidotcom" /> </p>
 
